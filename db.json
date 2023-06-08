@@ -1,0 +1,43 @@
+{
+  "registered": [
+    {
+      "firstName": "mary Mogano",
+      "lastName": "mogano",
+      "email": "malemamoloto@gmail.com",
+      "mobile": 768761826,
+      "weight": 45,
+      "height": 1.8,
+      "bmi": 13.888888888888888,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "",
+      "package": "Quarterly",
+      "important": [
+        "Energy and Endurance"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-06-14T22:00:00.000Z",
+      "id": 5
+    },
+    {
+      "firstName": "Moloto Mal",
+      "lastName": "Malema",
+      "email": "info.matsapola@gmail.com",
+      "mobile": 768761826,
+      "weight": 65,
+      "height": 11,
+      "bmi": 0.5371900826446281,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-06-21T22:00:00.000Z",
+      "id": 6
+    }
+  ]
+}
